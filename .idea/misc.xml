@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PROGRAMS/CryptoApp3/app/src/main/res/layout-land/activity_coin_price_list.xml" value="0.2234375" />
         <entry key="..\:/PROGRAMS/CryptoApp3/app/src/main/res/layout/activity_coin_detail.xml" value="0.17857142857142858" />
+        <entry key="..\:/PROGRAMS/CryptoApp3/app/src/main/res/layout/activity_coin_price_list.xml" value="0.17857142857142858" />
       </map>
     </option>
   </component>
